@@ -1,4 +1,4 @@
-# 欢迎来到 Open CS Application
+# 欢迎来到 Open sugar Application
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
 [![GitHub watchers](https://img.shields.io/github/watchers/opencsapp/opencsapp.github.io?style=social)](https://github.com/opencsapp/opencsapp.github.io/subscription)
